@@ -7,16 +7,16 @@ body {
 }
 @font-face {
     font-family: 'Kaushan Script';
-    src: url('c:\\Users\\yooyh\\OneDrive\\바탕 화면\\html\\Kaushan_Script\\KaushanScript-Regular.woff') format('woff'),
-         url('c:\\Users\\yooyh\\OneDrive\\바탕 화면\\html\\Kaushan_Script\\AnyConv.com__KaushanScript-Regular.woff2') format('woff2');
+    src: url('https://2raman.github.io/./html/Kaushan_Script/KaushanScript-Regular.woff') format('woff'),
+         url('https://2raman.github.io/./html/Kaushan_Script/AnyConv.com__KaushanScript-Regular.woff2') format('woff2');
     /* 다양한 폰트 포맷에 대한 지원을 위해 여러 파일 경로 지정 가능 */
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Yeon Sung';
-    src: url('c:\\Users\\yooyh\\OneDrive\\바탕 화면\\html\\Yeon_Sung\\YeonSung-Regular.woff') format('woff'),
-         url('c:\\Users\\yooyh\\OneDrive\\바탕 화면\\html\\Yeon_Sungf\\AnyConv.com__YeonSung-Regular.woff2') format('woff2');
+    src: url('https://2raman.github.io/./html/Yeon_Sung/YeonSung-Regular.woff') format('woff'),
+         url('https://2raman.github.io/./html/Yeon_Sung/AnyConv.com__YeonSung-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
