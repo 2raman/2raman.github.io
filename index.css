@@ -15,8 +15,8 @@ body {
 }
 @font-face {
     font-family: 'Yeon Sung';
-    src: url('https://2raman.github.io/./html/Yeon_Sung/YeonSung-Regular.woff') format('woff'),
-         url('https://2raman.github.io/./html/Yeon_Sung/AnyConv.com__YeonSung-Regular.woff2') format('woff2');
+    src: url('https://2raman.github.io/html/Yeon_Sung/YeonSung-Regular.woff') format('woff'),
+         url('https://2raman.github.io/html/Yeon_Sung/AnyConv.com__YeonSung-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
