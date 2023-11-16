@@ -24,11 +24,13 @@ header {
     background-color: #6c96FA;
     color: #fff;
     padding: 10px 20px;
+    font-family: "Yeon Sung";
 }
 footer {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    font-family: "Yeon Sung";
 }
 footer p {
     margin: 0 10px; /* 좌우 여백을 조절하려면 이 값을 조정하세요 */
