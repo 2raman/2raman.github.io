@@ -7,8 +7,8 @@ body {
 }
 @font-face {
     font-family: 'Kaushan Script';
-    src: url('https://2raman.github.io/./html/Kaushan_Script/KaushanScript-Regular.woff') format('woff'),
-         url('https://2raman.github.io/./html/Kaushan_Script/AnyConv.com__KaushanScript-Regular.woff2') format('woff2');
+    src: url('https://2raman.github.io/html/Kaushan_Script/KaushanScript-Regular.woff') format('woff'),
+         url('https://2raman.github.io/html/Kaushan_Script/AnyConv.com__KaushanScript-Regular.woff2') format('woff2');
     /* 다양한 폰트 포맷에 대한 지원을 위해 여러 파일 경로 지정 가능 */
     font-weight: normal;
     font-style: normal;
@@ -64,7 +64,7 @@ section {
 }
 
 #section1 {
-    background-image: url('https://2raman.github.io./html/%EB%9D%BC%EB%A7%8C2.jpeg');
+    background-image: url('https://2raman.github.io/html/%EB%9D%BC%EB%A7%8C2.jpeg');
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -94,7 +94,7 @@ section {
 }
 
 #section2 {
-    background-image: url('https://2raman.github.io./html/%EB%9D%BC%EB%A7%8C1.png');
+    background-image: url('https://2raman.github.io/html/%EB%9D%BC%EB%A7%8C1.png');
     background-repeat: no-repeat;
     background-size: 100%;
     /* 이미지 로딩 전 백그라운드 색상을 흰색으로 설정 */
