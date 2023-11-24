@@ -1,5 +1,5 @@
 // 데뷔일 설정 (YYYY, MM(0부터 시작), DD)
-const debutDate = new Date(2021, 10, 26); // 예시: 2023년 11월 1일
+const debutDate = new Date(2021, 10, 26=5); // 예시: 2023년 11월 1일
 
 // 데뷔일 업데이트 함수
 function updateDebutDay() {
